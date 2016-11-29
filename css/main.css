@@ -5,10 +5,13 @@ body {
 	padding: 3rem 1.5rem;
 	text-align: center;
 }
+span.read{
+	color:gray;
+}
 .article-links{
 	display: block;
 	font-size: 0.75rem;
 }
 .article-links a{
-	padding-right: .5rem;
+	padding-right: .2rem;
 }
